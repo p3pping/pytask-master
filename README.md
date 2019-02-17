@@ -1,6 +1,6 @@
 # pytask-master
-A personal project that monitors windows processes against a list of time wasting processes in "programs.txt".
-It tells you via voice command that you're wasting time and you shoudl stay on task.
+A personal project that monitors windows processes against a list of "time wasting processes" in programs.txt.
+It tells you via voice command that you're wasting time and you should stay on task.
 
 # Requirements:
 <ul>
